@@ -1,4 +1,4 @@
-import { rooms } from './rooms.js'
+import { rooms } from './rooms.ts'
 
 export const schema = {
   rooms,
